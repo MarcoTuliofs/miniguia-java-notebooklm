@@ -45,7 +45,8 @@ Programação Orientada a Objetos (POO)
 
 A Programação Orientada a Objetos é um paradigma de programação baseado na criação de objetos que representam elementos do mundo real.
 
-PRINCIPAIS CONCEITOS:
+PRINCIPAIS CONCEITOS:  
+
 Classe: Modelo que define características e comportamentos de um objeto.
 
 Objeto: Instância de uma classe.
@@ -67,10 +68,12 @@ ArrayList
 - Acesso rápido aos elementos.
 - Bom para consultas frequentes.
 - Inserções e remoções no meio da lista podem ser mais lentas.
+   
 LinkedList
 - Baseado em lista encadeada.
 -Inserções e remoções são mais eficientes.
 - Acesso aos elementos é mais lento.
+  
 HashMap
 - Armazena dados em pares chave-valor.
 - Busca extremamente rápida.
@@ -85,6 +88,7 @@ Quando o contexto foi detalhado:
 - Houve explicação dos conceitos envolvidos.
 - Foram fornecidos exemplos.
 - O foco permaneceu no aprendizado.
+   
 Quando apenas o código foi enviado:
 - A resposta identificou diretamente o erro.
 - Houve menos aprofundamento.
@@ -93,6 +97,7 @@ Quando apenas o código foi enviado:
 Essa diferença demonstrou a importância da elaboração adequada dos prompts.
 
 GLOSSÁRIO
+
 Java
 
 Linguagem de programação orientada a objetos desenvolvida pela Sun Microsystems.
